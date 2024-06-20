@@ -1,0 +1,56 @@
+.show-counter__element__title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+.show-counter__element__title span {
+    font-size: 1.5em;
+}
+.img-auto.img, .img-auto.img img {
+    width: auto !important;
+}
+.row-full-height .img, .row-full-height .img * {
+    height: 100%;
+}
+.row-full-height .img img {
+    object-fit: cover;
+}
+@media (min-width: 550px) {
+    .medium-text-right {
+        text-align: right;
+    }
+    .medium-text-right .is-divider {
+        margin-left: auto;
+    }
+}
+.slider-style-focus .flickity-slider>:not(.is-selected) {
+    transform: scale(.8);
+}
+.slider-style-container .flickity-slider>:not(.is-selected), .slider-style-focus .flickity-slider>:not(.is-selected), .slider-style-shadow .flickity-slider>:not(.is-selected) {
+    opacity: 1;
+}
+.uni-slider-button .flickity-prev-next-button {
+    width: 40px !important;
+/*    opacity: 1 !important;*/
+}
+.uni-slider-button .flickity-prev-next-button svg {
+    border-radius: 50%;
+    background: #FFF;
+    padding: 30% !important;
+    width: 40px !important;
+    height: 40px !important;
+}
+.uni-slider-button .flickity-prev-next-button .arrow, .uni-slider-button .flickity-prev-next-button svg {
+    fill: var(--primary-color);
+}
+@media (min-width: 850px) {
+    .row-factory .col-left > .col-inner {
+        max-width: calc( 33.3333333333vw - (100vw - 1140px)/2 );
+    }
+}
+.tabicon.show {
+    display: block !important;
+}
+.tabicon:not(.show) {
+    display: none;
+}

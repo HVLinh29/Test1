@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Question and Answer - Lumi Smart home</title>
+	<atom:link href="https://lumi.vn/en/category/news/question-and-answer/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Smart home cao cấp make in Vietnam</description>
+	<lastBuildDate>Tue, 20 Oct 2020 10:04:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://lumi.vn/wp-content/uploads/2022/05/cropped-Artboard-2-32x32.png</url>
+	<title>Question and Answer - Lumi Smart home</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Part 6: How do devices in wireless smart homes connect to each other?</title>
+		<link>https://lumi.vn/en/part-6-how-do-devices-in-wireless-smart-homes-connect-to-each-other.html</link>
+		
+		<dc:creator><![CDATA[uniadmin]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2020 10:02:36 +0000</pubDate>
+				<category><![CDATA[Question and Answer]]></category>
+		<guid isPermaLink="false">http://lumi.vn/?p=4337</guid>
+
+					<description><![CDATA[<p>In the previous articles, you know that currently, wireless Smart Homes are favored by many customers thanks to its outstanding utilities. It is the Zigbee communication network that helps owners control appliances such as air-conditioners, TVs, water heaters, etc by Smartphone or by voice. So what is Zigbee and its role in a Smart Home? [...]</p>
+<p>Bài viết <a href="https://lumi.vn/en/part-6-how-do-devices-in-wireless-smart-homes-connect-to-each-other.html">Part 6: How do devices in wireless smart homes connect to each other?</a> đã xuất hiện đầu tiên vào ngày <a href="https://lumi.vn/en">Lumi Smart home</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><span style="color: #000000;"><i>In the previous articles, you know that currently,</i> <i>wireless Smart Homes are favored by many customers thanks to its outstanding utilities. It is the Zigbee communication network that helps owners control appliances such as air-conditioners, TVs, water heaters, etc by Smartphone or by voice. So what is Zigbee and its role in a Smart Home? Let’s find out in the following article.  </i></span><br />
+<span style="color: #000000;"> </span></p>
+<p><span style="color: #000000;"><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-4345" src="http://lumi.vn/wp-content/uploads/2020/10/smart-home-ung-dung-internet-of-thing-hang-dau-1.jpg" width="900" height="593" srcset="https://lumi.vn/wp-content/uploads/2020/10/smart-home-ung-dung-internet-of-thing-hang-dau-1.jpg 900w, https://lumi.vn/wp-content/uploads/2020/10/smart-home-ung-dung-internet-of-thing-hang-dau-1-600x395.jpg 600w, https://lumi.vn/wp-content/uploads/2020/10/smart-home-ung-dung-internet-of-thing-hang-dau-1-300x198.jpg 300w, https://lumi.vn/wp-content/uploads/2020/10/smart-home-ung-dung-internet-of-thing-hang-dau-1-768x506.jpg 768w, https://lumi.vn/wp-content/uploads/2020/10/smart-home-ung-dung-internet-of-thing-hang-dau-1-510x336.jpg 510w" sizes="(max-width: 900px) 100vw, 900px" /></span></p>
+<h2 style="font-weight: 800;"><span style="color: #000000;"><i>1.  What is a wireless Smart Home using Zigbee network?</i></span></h2>
+<p style="font-weight: 400;"><span style="color: #000000;">You may not know, Smart Home is divided into 2 groups: wired home and wireless home. While a wired smart home requires you to change your existing electrical infrastructure, a wireless smart home allows you to easily install the solutions into your as-in house without changing anything. All smart home devices will interact with each other through a specific language called Zigbee network.  </span></p>
+<p style="font-weight: 400;">
+<h2 style="font-weight: 800;"><span style="color: #000000;"><i>2. What are the advantages of Zigbee? </i></span></h2>
+<p style="font-weight: 400;"><span style="color: #000000;">&#8211; Easy installation, no change to the existing infrastructure</span></p>
+<p style="font-weight: 400;"><span style="color: #000000;">&#8211; Ability to control devices from anywhere as long as the Internet connection is available </span></p>
+<p style="font-weight: 400;"><span style="color: #000000;">&#8211; Low energy consumption and ability to connect tup to 65.000 devices</span></p>
+<p style="font-weight: 400;"><span style="color: #000000;">&#8211; High security and privacy</span></p>
+<p style="font-weight: 400;">
+<p style="font-weight: 400;"><span style="color: #000000;">Lumi applies the Zigbee network in all our solutions. This feature proves to be useful in security. Every point in the network is able to connect to one another so that in case of disruption in one link, the communication among devices is still stable as it chooses another link to send signals.. </span></p>
+<p style="font-weight: 400;">
+<h2 style="font-weight: 800;"><span style="color: #000000;"><i>3. In the Lumi system, how many devices can 1 Home Controller connect? How many HC is needed for a three-storey house? </i></span></h2>
+<p style="font-weight: 400;"><span style="color: #000000;">With Lumi Home Controller, owners can connect up to 100 devices inside the house. Moreover, due to the specificity of using the network, the more devices the house has, the wider the coverage will be since each device will act as a signal receiver and transmitter to facilitate the signal transmitting process. </span></p>
+<p style="font-weight: 400;"><span style="color: #000000;">In fact, in a multi-storey home, the landlord should consider using more than one central controller to connect faster and smoother. In actual construction, Lumi recommends that customers let the actual installation radius of about 2 floors.</span></p>
+<p>Bài viết <a href="https://lumi.vn/en/part-6-how-do-devices-in-wireless-smart-homes-connect-to-each-other.html">Part 6: How do devices in wireless smart homes connect to each other?</a> đã xuất hiện đầu tiên vào ngày <a href="https://lumi.vn/en">Lumi Smart home</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
